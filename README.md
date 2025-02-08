@@ -24,7 +24,17 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
    
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Have a look at the deployed app.
+## 📦 Features
+- Built with **Next.js** for server-side rendering (SSR) & static site generation (SSG)
+- Uses **Neon** for scalable and serverless PostgreSQL databases
+- **Inngest** for background jobs and event-driven workflows
+- **Clerk** for authentication and user management
+- Optimized font loading with [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+- Fast refresh for a seamless development experience
+- API routes for backend functionality
+- Deployed effortlessly with [Vercel](https://vercel.com)   
+
+### Have a look at the deployed app
 Open [https://job-genie-orpin.vercel.app/](https://job-genie-orpin.vercel.app/) in your browser.
 
 ## 📚 Learn More

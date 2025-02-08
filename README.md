@@ -24,8 +24,8 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
    
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📸 Screenshots
-![Project Screenshot](./screenshot.png) 
+## Have a look at the deployed app.
+Open [https://job-genie-orpin.vercel.app/](https://job-genie-orpin.vercel.app/) in your browser.
 
 ## 📚 Learn More
 Check out the following resources:

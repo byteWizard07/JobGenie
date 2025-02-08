@@ -3,17 +3,13 @@
 This is a **Next.js** project built with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It provides a modern development setup optimized for performance and scalability.
 
 ## 📦 Features
-- Server-side rendering (SSR) & static site generation (SSG)
-- Optimized font loading with [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
-- Fast refresh for a seamless development experience
-- API routes for backend functionality
-- Deployed effortlessly with [Vercel](https://vercel.com)
+
 
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/byteWizard07/JobGenie.git
    cd your-repo-name
    ```
 2. Install dependencies:
@@ -27,7 +23,7 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
-![Project Screenshot](./screenshot.png) *(Replace with actual screenshot path)*
+![Project Screenshot](./screenshot.png) 
 
 ## 📚 Learn More
 Check out the following resources:

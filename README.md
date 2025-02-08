@@ -2,6 +2,10 @@
 
 This is a **Next.js** project built with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It provides a modern development setup optimized for performance and scalability.
 
+## 🚀 Live Demo
+
+Check out the live application: [Job Genie](https://job-genie-orpin.vercel.app/)
+
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
@@ -33,9 +37,6 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
 - Fast refresh for a seamless development experience
 - API routes for backend functionality
 - Deployed effortlessly with [Vercel](https://vercel.com)   
-
-### Have a look at the deployed app
-Open [https://job-genie-orpin.vercel.app/](https://job-genie-orpin.vercel.app/) in your browser.
 
 ## 📚 Learn More
 Check out the following resources:

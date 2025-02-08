@@ -4,7 +4,7 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
 
 ## 🚀 Live Demo
 
-Check out the live application: **Job Genie** - https://job-genie-orpin.vercel.app/ - https://job-genie-orpin.vercel.app/
+Check out the live application: **Job Genie** - [https://job-genie-orpin.vercel.app/](https://job-genie-orpin.vercel.app/)
 
 ## 🔧 Installation & Setup
 

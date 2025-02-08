@@ -17,7 +17,12 @@ This is a **Next.js** project built with [`create-next-app`](https://github.com/
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Run the inngest server:
+   ```bash
+   npx inngest-cli@latest dev
+   ```
+   
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
 ![Project Screenshot](./screenshot.png) 

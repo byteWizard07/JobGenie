@@ -30,6 +30,7 @@ Check out the live application: **Job Genie** - [https://job-genie-orpin.vercel.
 
 ## 📦 Features
 - Built with **Next.js** for server-side rendering (SSR) & static site generation (SSG)
+- Styled with **shadcn/ui** for beautifully designed and accessible UI components
 - Uses **Neon** for scalable and serverless PostgreSQL databases
 - **Inngest** for background jobs and event-driven workflows
 - **Clerk** for authentication and user management

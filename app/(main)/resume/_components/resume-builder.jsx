@@ -117,7 +117,7 @@ export default function ResumeBuilder({ initialContent }) {
     try {
       const element = document.getElementById("resume-pdf");
        // Dynamically import html2pdf only on the client-side
-     // const html2pdf = (await import("html2pdf.js")).default;
+     //const html2pdf = (await import("html2pdf.js")).default;
       const opt = {
         margin: [15, 15],
         filename: "resume.pdf",
@@ -403,7 +403,7 @@ export default function ResumeBuilder({ initialContent }) {
               preview={resumeMode}
             />
           </div>
-          <div className="hidden">
+          {/* <div className="hidden">
             <div id="resume-pdf">
               <MDEditor.Markdown
                 source={previewContent}
@@ -413,9 +413,21 @@ export default function ResumeBuilder({ initialContent }) {
                 }}
               />
             </div>
-          </div>
+          </div> */}
         </TabsContent>
       </Tabs>
+      <div className="hidden">
+        <div id="resume-pdf">
+          <MDEditor.Markdown
+            source={previewContent}
+            style={{
+              background: "white",
+              color: "black",
+            }}
+          />
+        </div>
+      </div>
     </div>
+
   );
 }

@@ -34,6 +34,7 @@ Check out the live application: **Job Genie** - [https://job-genie-orpin.vercel.
 - Uses **Neon** for scalable and serverless PostgreSQL databases
 - **Inngest** for background jobs and event-driven workflows
 - **Clerk** for authentication and user management
+- Integrated with **Gemini API** for advanced AI-powered functionalities
 - Optimized font loading with [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 - Fast refresh for a seamless development experience
 - API routes for backend functionality

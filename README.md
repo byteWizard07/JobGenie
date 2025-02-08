@@ -54,5 +54,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## 📝 License
-This project is licensed under the **MIT License**.
+## 🔗 Connect with Me
+- **LinkedIn:** [Amit Kumar](https://www.linkedin.com/in/amit-kumar-0874b7217/)

@@ -2,9 +2,6 @@
 
 This is a **Next.js** project built with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It provides a modern development setup optimized for performance and scalability.
 
-## 📦 Features
-
-
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
